@@ -1,6 +1,6 @@
 #!usr/bin/python:3
 """
-contains method is_kind_of_class
+Contains method is_kind_of_class
 returns True if object is an instance of class that it inherited from
 """
 
