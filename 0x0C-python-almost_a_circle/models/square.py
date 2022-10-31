@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+"""
 nherits from Rectangle;
 Inits superclass' id, width (as size), height (as size), x, y
 Contains public attribute size

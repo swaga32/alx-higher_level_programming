@@ -1,4 +1,6 @@
- a class Base
+#!/usr/bin/python3
+"""
+defines a class Base
 with private attribute nb_objects
 """
 

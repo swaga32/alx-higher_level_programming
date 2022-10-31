@@ -1,4 +1,6 @@
- unittests for models/square.py.
+#!/usr/bin/python3
+"""
+ Defines unittests for models/square.py.
 # run with python3 -m unittest discover tests
 # run with python3 -m unittest tests/test_models/test_square.py
 """
